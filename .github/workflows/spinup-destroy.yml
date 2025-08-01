@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace admin@MngEnvMCAP276790.onmicrosoft.com with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: admin@MngEnvMCAP276790.onmicrosoft.com-ttt-app
+  AZURE_WEBAPP_NAME: actions-ttt-app
 
 jobs:
   setup-up-azure-resources:
